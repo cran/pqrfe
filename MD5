@@ -1,8 +1,9 @@
-e914f41281b42ae19d71e81f6e7f3651 *DESCRIPTION
+2b83e3c7e21fcdfde88e98e365def7d3 *DESCRIPTION
 03d42a4beae36a625a15dd186a26405d *NAMESPACE
-dc723cd638b7bdb898ce568e119b4cc8 *R/PQRFE_main.R
+151d639e43174552f76591526ff2c16a *R/PQRFE_main.R
 7bed4478a80b5e66b5208280a0cd3608 *R/RcppExports.R
-ef2858e22b8788d7071802201146c5a3 *build/partial.rdb
+09bcedec141055b1728dd5096910d9fc *build/partial.rdb
+eeb7607787b40c58c2db9685e5939eeb *inst/tinytest/test_pqrfe.R
 282eff213aa3a91c23b241a3a49ee32c *man/check_lambda.Rd
 59ea9a720d2793b0010057b629fc5f92 *man/choice_p.Rd
 e7d33a46a1f245099b608526df4dce15 *man/clean_data.Rd
@@ -31,7 +32,7 @@ ccbff5b6a2df0b5d1d200e4b7edc355e *man/optim_qr.Rd
 b603ed3360425e84416829902973f1b6 *man/optim_qrlasso.Rd
 985f818507d09758bcf51baa9dfe2fae *man/plot_taus.Rd
 428c87a818159038365689e1fcdb4185 *man/pqr.Rd
-72d7f940e0322f9b8a47816b6b5a18aa *man/pqrfe-package.Rd
+5bb61392f0c7c228d03a042c4b2ccb90 *man/pqrfe-package.Rd
 9f4add4bbcdf7724bdcd8d4ef2c893ef *man/print.PQR.Rd
 8c8cdf9972dd78c1c070c347084b1923 *man/psi_als.Rd
 e99097c56cda4fdc2af30abb75c6052a *man/psi_mq.Rd
@@ -42,4 +43,5 @@ a5d0c1ffe1a20844d4de4c33646e1bd0 *man/q_cov.Rd
 61059660eb073d93e00e8ee054237071 *src/Makevars
 61059660eb073d93e00e8ee054237071 *src/Makevars.win
 5e2343fef14a29f7b15eecc8ad723444 *src/PQRFE_arma.cpp
-449401bab9d3ac5c095693a9402be836 *src/RcppExports.cpp
+474ee15d79dfc8525ad1c1f0a8c644b5 *src/RcppExports.cpp
+890da730430d5f861ecf60562078aa3e *tests/tinytest.R
